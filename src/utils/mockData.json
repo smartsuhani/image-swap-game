@@ -1,0 +1,47 @@
+{
+  "pictures": [
+    {
+      "id": 1,
+      "name": "Cornet",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Cornet.png"
+    },
+    {
+      "id": 2,
+      "name": "Saxophone",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Saxophone.png"
+    },
+    {
+      "id": 3,
+      "name": "Violin",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Violin.png"
+    },
+    {
+      "id": 4,
+      "name": "Guitar",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Guitar.png"
+    },
+    {
+      "id": 5,
+      "name": "Bass-Guitar",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Bass-Guitar.png"
+    },
+    {
+      "id": 6,
+      "name": "Harp",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Harp.png"
+    },
+    {
+      "id": 7,
+      "name": "Drums",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Drums.png"
+    },
+    {
+      "id": 8,
+      "name": "Accordion",
+      "url": "https://englishstudyhere.com/wp-content/uploads/2018/10/Accordion.png"
+    }
+  ],
+  "labels" : [
+    "Bass Guitar", "Violin", "Guitar", "Saxophone", "Cornet", "Drums", "Harp", "Accordion"
+  ]
+}

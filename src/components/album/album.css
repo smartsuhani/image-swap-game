@@ -1,0 +1,20 @@
+.card-container {
+    border: 1px solid lightgray;
+    margin: 1% auto;
+    padding: 2% 2%;
+}
+
+.column {
+    margin-bottom: 3%;
+    border: 1px solid lightgray;
+    padding: 0;
+}
+
+.image-container {
+    height: 93%;
+}
+
+.label-container {
+    border-top: 1px solid lightGray;
+    padding: 1%;
+}
